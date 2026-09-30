@@ -135,8 +135,6 @@ const AuditPage = () => {
         primaryGoal: "",
         mainGoal: "",
       });
-      // Redirect to booking page to schedule a strategy call
-      navigate("/booking");
     }, 1500);
   };
 

@@ -12,7 +12,7 @@ const footerLinkMap: Record<string, string> = {
   "Case Studies": "#case-studies",
   Careers: "#",
   Contact: "#contact",
-  "Book a Call": "/audit",
+  WhatsApp: "https://wa.me/923231034955",
 
   Blog: "#",
   "AI Playbook": "#",
@@ -49,7 +49,7 @@ const footerLinks = {
     "Case Studies",
     "Careers",
     "Contact",
-    "Book a Call",
+    "WhatsApp",
   ],
   Resources: [
     "Blog",

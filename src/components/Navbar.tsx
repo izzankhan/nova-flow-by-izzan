@@ -54,10 +54,10 @@ export const Navbar = () => {
             </a>
           ))}
           <a
-            href="/audit"
+            href="https://wa.me/923231034955"
             className="btn-gradient rounded-full px-5 py-2.5 text-sm font-semibold text-white transition-all hover:scale-105"
           >
-            Book Strategy Call
+            WhatsApp
           </a>
         </div>
         <button
@@ -89,11 +89,11 @@ export const Navbar = () => {
                 </a>
               ))}
               <a
-                href="/audit"
+                href="https://wa.me/923231034955"
                 onClick={() => setOpen(false)}
                 className="btn-gradient mt-2 rounded-full px-6 py-3 text-center text-sm font-semibold text-white"
               >
-                Book Strategy Call
+                WhatsApp
               </a>
             </div>
           </motion.div>

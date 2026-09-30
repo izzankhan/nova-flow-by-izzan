@@ -58,10 +58,10 @@ export const BookCall = () => {
               ))}
             </div>
             <a
-              href="/audit"
+              href="https://wa.me/923231034955"
               className="mt-10 btn-gradient inline-flex items-center gap-2 rounded-full px-8 py-4 text-sm font-semibold text-white"
             >
-              Book Your Strategy Call <ArrowRight className="h-4 w-4" />
+              WhatsApp <ArrowRight className="h-4 w-4" />
             </a>
           </div>
           <div className="relative hidden lg:flex items-center justify-center">

@@ -142,10 +142,10 @@ export const Hero = () => {
               className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center lg:justify-start"
             >
               <MagneticButton
-                href="/audit"
+                href="https://wa.me/923231034955"
                 className="w-full sm:w-auto justify-center"
               >
-                Book Strategy Call <ArrowRight className="h-4 w-4" />
+                WhatsApp <ArrowRight className="h-4 w-4" />
               </MagneticButton>
               <MagneticButton
                 href="#portfolio"

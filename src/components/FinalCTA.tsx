@@ -41,10 +41,10 @@ export const FinalCTA = () => {
           className="mt-10"
         >
           <a
-            href="/audit"
+            href="https://wa.me/923231034955"
             className="btn-gradient inline-flex items-center gap-2 rounded-full px-10 py-5 text-base font-semibold text-white"
           >
-            Book Strategy Call <ArrowRight className="h-5 w-5" />
+            WhatsApp <ArrowRight className="h-5 w-5" />
           </a>
         </motion.div>
       </div>
